@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lenajava1
+- 👋 Hi, I’m Lena
 - 👀 I’m interested in Software testing
 - 🌱 I’m currently learning Introduction to Software Testing and Test design techniques
 - 📫 How to reach me ...
