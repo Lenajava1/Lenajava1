@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lena
-- 👀 I’m interested in Software testing
+- 👀 QA Engineer
 - 📫 How to reach me https://www.linkedin.com/in/elena-mutykova-60612420a/
 
 <!---
