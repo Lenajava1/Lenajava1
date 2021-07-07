@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Lena
-- 👀 QA Engineer in VirtoCommerce
+- 👀 QA Engineer at VirtoCommerce
 - 📫 How to reach me https://www.linkedin.com/in/elena-mutykova-60612420a/
 
 <!---
